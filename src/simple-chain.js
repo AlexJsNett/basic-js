@@ -1,4 +1,3 @@
-const { decorateObject } = require('../lib');
 const { NotImplementedError } = require('../lib');
 
 /**
